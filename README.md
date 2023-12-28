@@ -1,6 +1,6 @@
 # file_picker_web_mobile_flutter
 
-Aplicativo Flutter demonstrando upload de arquivos pela web e por dispositivo móvel, e recebendo em uma API node.js.
+Aplicativo Flutter demonstrando upload de arquivos pela web e por dispositivo móvel, e recebendo os arquivos em uma API node.js.
 
 A API está incluída no projeto.
 Instale o Node.js e suba a API
